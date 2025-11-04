@@ -32,7 +32,7 @@ class Veiculo {
     public int getAno() { return ano; }
 
     public void acelerar() {
-        System.out.println("O veículo está a ganhar velocidade.");
+        System.out.println("O veículo está a ganhar velocidadee.");
     }
 }
 
